@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagickNet", "MagickNet\MagickNet.csproj", "{90B435A4-9E19-4908-B1C3-A2E49F96342A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiaSharpTest", "SkiaSharpTest\SkiaSharpTest.csproj", "{D81A4099-46D3-4389-806B-FEA6ACCF8DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B435A4-9E19-4908-B1C3-A2E49F96342A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B435A4-9E19-4908-B1C3-A2E49F96342A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B435A4-9E19-4908-B1C3-A2E49F96342A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B435A4-9E19-4908-B1C3-A2E49F96342A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81A4099-46D3-4389-806B-FEA6ACCF8DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81A4099-46D3-4389-806B-FEA6ACCF8DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81A4099-46D3-4389-806B-FEA6ACCF8DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81A4099-46D3-4389-806B-FEA6ACCF8DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
